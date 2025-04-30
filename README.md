@@ -11,7 +11,7 @@
 [Introduction](#Introduction) | [Devices](#Devices) | [Setup Instructions](#setup-instructions) | [Build Instructions](#build-instructions) | [Supported Devices](#supported-devices) | [Licensing](#licensing) | [Contributions](#contributions) | [Developer Resources](developer-resources)
 </div>
 
-<img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/blob/main/docs/media/environmental_sensing"><br/>
+<img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/blob/main/docs/media/environmental_sensing.jpg"><br/>
 
 </div>
 
