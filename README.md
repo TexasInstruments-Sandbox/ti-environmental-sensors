@@ -2,7 +2,7 @@
 
 <picture>
   
-  <img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/blob/main/docs/media/ic-logo.svg"><br/>
+  <img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/blob/main/docs/media/ti-logo.svg"><br/>
   
 </picture>
 
@@ -11,7 +11,7 @@
 [Introduction](#Introduction) | [Devices](#Devices) | [Setup Instructions](#setup-instructions) | [Build Instructions](#build-instructions) | [Supported Devices](#supported-devices) | [Licensing](#licensing) | [Contributions](#contributions) | [Developer Resources](developer-resources)
 </div>
 
-<img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/blob/main/docs/media/sensing.jpg"><br/>
+<img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/blob/main/docs/media/environmental_sensing"><br/>
 
 </div>
 
