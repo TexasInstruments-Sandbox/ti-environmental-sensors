@@ -5,10 +5,7 @@
   <img alt="Texas Instruments Logo" src="./TI-Logo-Color.svg" width="300">
 </picture>
 
-# <Software product name>
-This repository contains TI's `Software product name` Software Development Kit (SDK).
-
-`Be sure to include any additional sections here`
+# TI Environmental Sensors Example Code
 
 [Introduction](#Introduction) | [Devices](#Devices) | [Temperature](#Temperature) | [Related Repos](#related-repos) | [Setup Instructions](#setup-instructions) | [Build Instructions](#build-instructions) | [Supported Devices](#supported-devices) | [Licensing](#licensing) | [Contributions](#contributions) | [Developer Resources](developer-resources)
 </div>
