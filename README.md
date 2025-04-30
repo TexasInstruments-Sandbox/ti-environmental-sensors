@@ -10,6 +10,10 @@
 [Introduction](#Introduction) | [Devices](#Devices) | [Temperature](#Temperature) | [Related Repos](#related-repos) | [Setup Instructions](#setup-instructions) | [Build Instructions](#build-instructions) | [Supported Devices](#supported-devices) | [Licensing](#licensing) | [Contributions](#contributions) | [Developer Resources](developer-resources)
 </div>
 
+<img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/docs/media/sensing.jpg"><br/>
+
+</div>
+
 ## Introduction
 
 `Environmental Sensors from Texas Instruments are specialized sensors used across the industry from Personal Electronics to Medical Devices. These sensors come in a variety of interface types such as I2C (most common), I3C (coming soon), UART, SPI, Analog, Single-Wire and more. These sensors are typically integrated in systems using MCUs to read, interpret and react to measurements read from environmental sensors.
