@@ -1,8 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./TI-Logo-White.svg" width="300">
-  <img alt="Texas Instruments Logo" src="./TI-Logo-Color.svg" width="300">
+  
+  <img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/blob/main/docs/media/ic-logo.svg"><br/>
+  
 </picture>
 
 # TI Environmental Sensors Example Code
