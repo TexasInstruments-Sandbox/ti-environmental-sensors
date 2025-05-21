@@ -8,7 +8,7 @@
 
 # TI Environmental Sensors Example Code
 
-[Introduction](#Introduction) | [Devices](#Devices) | [Setup Instructions](#setup-instructions) | [Build Instructions](#build-instructions) | [Supported Devices](#supported-devices) | [Licensing](#licensing) | [Contributions](#contributions) | [Developer Resources](developer-resources)
+[Introduction](#introduction) | [Devices](#devices) | [Environmental Sensors Homepage](https://www.ti.com/sensors/overview.html) | [Repo Organization](#repo-organization) | [Licensing](#licensing) | [Contributions](#contributions) | [Helpful Content](helpful-content) | [Dev Resources](dev-resources)
 </div>
 
 <img src="https://github.com/TexasInstruments-Sandbox/ti-environmental-sensors/blob/main/docs/media/environmental_sensing.jpg"><br/>
@@ -42,30 +42,28 @@ Below is a list of devices supported in this repo (please note this list is alwa
 - [HDC1010](https://www.ti.com/product/HDC1010) First Gen ±2% low-power digital humidity and temperature sensor in WCSP
 
 
-## Setup Instructions
-
-`self explanatory`
+## Environmental Sensors Homepage
 
 
-## Build Instructions
-
-`self explanatory`
 
 
-## Supported Devices
-
-`List supported devices and optionally supported boards. Be sure to use official TI GPN's and link them back to the product pages on ti.com`
+## Repo Organization
+`Devices which currently have code examples can be found in the main /devices folder. Inside, subfolders distinguish sensors from their type (digital-local, humidity, etc.). Example code will primarily be in Arduino. Additionally, some devices may include complete Arduino driver code with appropriate header and main files. This list is always updating so check back regularly or reach out to us for a specific device!`
 
 
 ## Licensing
-`link to license.md`
+[See License](docs/media/LICENSE.md)
 
 
 ## Contributions 
 
-This repo is currently not accepting contributions, however we welcome your feedback! Please send any feedback of our repo or examples [here] (insert ths github email).
+This repo is currently not accepting contributions, however we welcome your feedback! Please send any feedback of our repo or examples [here] (insert ths github email) or [E2E](https://e2e.ti.com).
 
 
 ---
-## Developer Resources
+## Helpful Content
+
+`Available content for Interfacing With TI's Environmental Sensors`
+
+## Dev Resources
 [TI E2E™ design support forums](https://e2e.ti.com) | [Learn about software development at TI](https://www.ti.com/design-development/software-development.html) | [Training Academies](https://www.ti.com/design-development/ti-developer-zone.html#ti-developer-zone-tab-1) | [TI Developer Zone](https://dev.ti.com/)
