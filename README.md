@@ -35,8 +35,7 @@ Below is a list of devices supported in this repo (please note this list is alwa
 
 - [HDC302x](https://www.ti.com/product/HDC3020) Third Gen 0.5% RH I²C digital humidity sensor, 0.19% long-term drift, 400 nA, 4-sec response time
 - [HDC2010](https://www.ti.com/product/HDC2010) Second Gen 2% RH ultra-small, low-power digital relative humidity sensor
-- [HDC2021](https://www.ti.com/product/HDC2021) Second Gen 2% RH ultra-low-power digital relative humidity sensor, tape cover
-- [HDC2022](https://www.ti.com/product/HDC2022) Second Gen 2% RH ultra-low-power digital relative humidity sensor, IP67 filter
+- [HDC2021](https://www.ti.com/product/HDC2021) / [HDC2022](https://www.ti.com/product/HDC2022) Second Gen 2% RH ultra-low-power digital relative humidity sensor, tape cover or IP67 filter
 - [HDC2080](https://www.ti.com/product/HDC2080) Second Gen 2% RH ultra-low-power digital relative humidity sensor, interrupt/DRDY
 - [HDC1080](https://www.ti.com/product/HDC1080) First Gen 2% RH low-power digital relative humidity sensor
 - [HDC1010](https://www.ti.com/product/HDC1010) First Gen ±2% low-power digital humidity and temperature sensor in WCSP
@@ -54,16 +53,15 @@ Below is a list of devices supported in this repo (please note this list is alwa
 ## Licensing
 [See License](docs/media/LICENSE.md)
 
+## Helpful Content
 
+- [How to Read and Interpret Digital Temperature Sensor Output Data](https://www.ti.com/lit/pdf/sbaa588)
+
+---
 ## Contributions 
 
 This repo is currently not accepting contributions, however we welcome your feedback! Please send any feedback of our repo or examples [here] (insert ths github email) or [E2E](https://e2e.ti.com).
 
-
----
-## Helpful Content
-
-`Available content for Interfacing With TI's Environmental Sensors`
 
 ## Dev Resources
 [TI E2E™ design support forums](https://e2e.ti.com) | [Learn about software development at TI](https://www.ti.com/design-development/software-development.html) | [Training Academies](https://www.ti.com/design-development/ti-developer-zone.html#ti-developer-zone-tab-1) | [TI Developer Zone](https://dev.ti.com/)
