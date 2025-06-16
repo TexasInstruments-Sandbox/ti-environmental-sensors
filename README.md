@@ -55,7 +55,7 @@ Devices which currently have code examples can be found in the main /devices fol
 ---
 ## Contributions 
 
-This repo is currently not accepting contributions, however we welcome your feedback! Please send any feedback of our repo or examples [here] (insert ths github email) or [E2E](https://e2e.ti.com).
+This repo is currently not accepting contributions, however we welcome your feedback! Please send any feedback or questions through [E2E](https://e2e.ti.com).
 
 
 ## Dev Resources
