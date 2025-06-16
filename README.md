@@ -47,7 +47,7 @@ Below is a list of devices supported in this repo (please note this list is alwa
 
 
 ## Repo Organization
-`Devices which currently have code examples can be found in the main /devices folder. Inside, subfolders distinguish sensors from their type (digital-local, humidity, etc.). Example code will primarily be in Arduino. Additionally, some devices may include complete Arduino driver code with appropriate header and main files. This list is always updating so check back regularly or reach out to us for a specific device!`
+Devices which currently have code examples can be found in the main /devices folder. Inside, subfolders distinguish sensors from their type (digital-local, humidity, etc.). Example code will primarily be in Arduino. Additionally, some devices may include complete Arduino driver code with appropriate header and main files. This list is always updating so check back regularly or reach out to us for a specific device!`
 
 
 ## Licensing
